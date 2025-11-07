@@ -38,9 +38,6 @@ const rusith = {
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rusith1204&theme=radical&border_radius=10&animation=true)](https://git.io/streak-stats)
 
-<!-- Snake Animation Contribution Graph -->
-![Snake Animation](https://github.com/Rusith1204/Rusith1204/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ## 🛠️ Tech Stack
@@ -141,8 +138,6 @@ while (coding) {
 ### ⚡ **"First, solve the problem. Then, write the code." - John Johnson**
 
 ⭐️ **Thanks for visiting my profile!** 
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/gh-pages/bottom_header.svg" width="100%"/>
 
 </div>
 
