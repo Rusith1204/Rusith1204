@@ -81,8 +81,9 @@ HTML/CSS     █████░░░░░░░░░░░░░░░░░�
 <div align="center">
 
 <!-- Project Cards -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=GYM-website&theme=radical)](https://github.com/Rusith1204/your-repo-name)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=lecture_dash_board&theme=radical)](https://github.com/Rusith1204/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=GYM-website&theme=radical)](https://github.com/Rusith1204/your-repo-name)
+
 
 
 </div>
