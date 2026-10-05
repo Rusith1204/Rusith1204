@@ -131,19 +131,9 @@ class Rusith:
 
 <div align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
-<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/4-productive-time.svg" />
-
-</div>
-
----
-
-## 🏆 Profile Summary
-
-<div align="center">
-
-<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/0-profile-details.svg" />
-<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/3-stats.svg" />
+![Last Commit](https://img.shields.io/github/last-commit/Rusith1204/GYM-website?style=for-the-badge&logo=git&color=00ff9c&labelColor=0d1117)
+![Top Language](https://img.shields.io/github/languages/top/Rusith1204/GYM-website?style=for-the-badge&color=1f6feb&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Rusith1204?style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117)
 
 </div>
 
