@@ -131,17 +131,19 @@ class Rusith:
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rusith1204&bg_color=0d1117&color=ffffff&line=00ff9c&point=f9fafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/4-productive-time.svg" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rusith1204&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/0-profile-details.svg" />
+<img height="180" src="https://raw.githubusercontent.com/Rusith1204/Rusith1204/main/profile-summary-card-output/radical/3-stats.svg" />
 
 </div>
 
