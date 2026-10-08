@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0d1117,100:1f6feb&height=220&section=header&text=RUSITH%20BANDARA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%5B%20Ethical%20Hacker%20%7C%20Security%20Engineer%20%7C%20Developer%20%5D&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="./assets/matrix-banner.svg" width="100%" alt="Rusith Bandara - Ethical Hacker | Security Engineer | Developer"/>
 
 <a href="https://github.com/Rusith1204">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+Ethical+Hacker+in+the+making+%F0%9F%95%B5%EF%B8%8F;%3E+Security+Engineer+%7C+Defending+systems+%F0%9F%9B%A1%EF%B8%8F;%3E+Penetration+Testing+%26+Vulnerability+Research+%F0%9F%94%8D;%3E+Full+Stack+Developer+with+a+security+mindset+%F0%9F%92%BB;%3E+Hack+ethically.+Defend+relentlessly.+%F0%9F%94%90" alt="Typing SVG" />
@@ -9,13 +9,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rusith1204&label=Profile%20views&color=00ff9c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rusith1204?style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Hacking%20(Legally)-00ff9c?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🖥️ `whoami`
 
@@ -38,7 +38,15 @@ class Rusith:
     contact     = "rusithbandara20021204@gmail.com"
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
+## 💻 `./hack.py`
+
+<div align="center">
+  <img src="./assets/code-editor.svg" alt="coding animation" width="800"/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🛡️ Cybersecurity Arsenal
 
@@ -64,7 +72,7 @@ class Rusith:
 
 > ⚠️ *All security testing is performed only in authorized, legal lab environments.*
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +93,7 @@ class Rusith:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🐍 Contribution Snake
 
@@ -99,7 +107,7 @@ class Rusith:
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📊 GitHub Analytics
 
@@ -114,7 +122,7 @@ class Rusith:
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🎯 Featured Projects
 
@@ -125,7 +133,7 @@ class Rusith:
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 💡 Coding Activity
 
@@ -137,7 +145,7 @@ class Rusith:
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🔐 Currently Running
 
@@ -150,7 +158,7 @@ $ while true; do
 > done
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📫 Connect With Me
 
@@ -168,6 +176,6 @@ $ while true; do
 
 ⭐ **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0d1117,100:00ff9c&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/matrix-footer.svg" width="100%" alt="Stay curious. Stay ethical."/>
 
 </div>
