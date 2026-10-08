@@ -40,6 +40,14 @@ class Rusith:
 
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
+## 🕶️ Hacker Mode
+
+<div align="center">
+  <img src="./assets/hacker-scene.svg" alt="hooded hacker coding in a dark room" width="100%"/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
 ## 💻 `./hack.py`
 
 <div align="center">
