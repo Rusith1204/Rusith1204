@@ -122,12 +122,12 @@ class Rusith:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rusith1204&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusith1204&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=true" />
+<img width="49%" alt="GitHub stats" src="./assets/cards/stats.svg" />
+<img width="49%" alt="Top languages" src="./assets/cards/languages.svg" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rusith1204&theme=radical&border_radius=10&animation=true" />
+<img width="99%" alt="Contribution streak" src="./assets/cards/streak.svg" />
 
 </div>
 
@@ -137,8 +137,8 @@ class Rusith:
 
 <div align="center">
 
-[![lecture_dash_board](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=lecture_dash_board&theme=radical)](https://github.com/Rusith1204/lecture_dash_board)
-[![GYM-website](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=GYM-website&theme=radical)](https://github.com/Rusith1204/GYM-website)
+<a href="https://github.com/Rusith1204/lecture_dash_board"><img width="49%" alt="lecture_dash_board" src="./assets/cards/project-lecture_dash_board.svg" /></a>
+<a href="https://github.com/Rusith1204/GYM-website"><img width="49%" alt="GYM-website" src="./assets/cards/project-GYM-website.svg" /></a>
 
 </div>
 
