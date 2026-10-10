@@ -43,7 +43,7 @@ class Rusith:
 ## 🕶️ Hacker Mode
 
 <div align="center">
-  <img src="./assets/hacker-scene.svg" alt="hooded hacker coding in a dark room" width="100%"/>
+  <img src="./assets/hacker-soc.svg" alt="hooded hacker coding in a dark room" width="100%"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
@@ -58,6 +58,10 @@ class Rusith:
 
 ## 🛡️ Cybersecurity Focus
 
+<table align="center">
+<tr>
+<td valign="middle">
+
 | 🎯 Focus Area | 🔧 What I'm Exploring |
 |---|---|
 | **Offensive Security** | Recon, enumeration, web app pentesting, OWASP Top 10 |
@@ -65,7 +69,16 @@ class Rusith:
 | **Networking** | TCP/IP, packet analysis, firewalls, network scanning |
 | **Practice Labs** | CTFs, TryHackMe, Hack The Box, home lab |
 
-> ⚠️ *All security testing is performed only in authorized, legal lab environments.*
+</td>
+<td align="center" valign="middle">
+  <img src="./assets/cyber-shield.svg" width="300" alt="animated defense grid"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<i>⚠️ All security testing is performed only in authorized, legal lab environments.</i>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
@@ -109,12 +122,12 @@ class Rusith:
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Rusith1204&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&ring_color=00ff9c&border_color=00ff9c" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusith1204&layout=compact&langs_count=8&border_radius=10&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=00ff9c" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rusith1204&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusith1204&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rusith1204&border_radius=10&background=0D1117&border=00FF9C&stroke=00FF9C33&ring=00FF9C&fire=00E5FF&currStreakNum=00FF9C&sideNums=00E5FF&currStreakLabel=00FF9C&sideLabels=8BE9FD&dates=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=Rusith1204&theme=radical&border_radius=10&animation=true" />
 
 </div>
 
@@ -124,8 +137,8 @@ class Rusith:
 
 <div align="center">
 
-[![lecture_dash_board](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=lecture_dash_board&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=00ff9c)](https://github.com/Rusith1204/lecture_dash_board)
-[![GYM-website](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=GYM-website&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=00ff9c)](https://github.com/Rusith1204/GYM-website)
+[![lecture_dash_board](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=lecture_dash_board&theme=radical)](https://github.com/Rusith1204/lecture_dash_board)
+[![GYM-website](https://github-readme-stats.vercel.app/api/pin/?username=Rusith1204&repo=GYM-website&theme=radical)](https://github.com/Rusith1204/GYM-website)
 
 </div>
 
