@@ -137,7 +137,9 @@ class Rusith:
 
 <div align="center">
 
-<a href="https://github.com/Rusith1204/expense-tracker"><img width="49%" alt="expense-tracker" src="./assets/cards/expense-tracker.svg" /></a>
+<a href="https://github.com/Rusith1204/expense-tracker" target="_blank" rel="noopener noreferrer">
+  <img width="49%" alt="expense-tracker" src="/assets/cards/expense-tracker.svg" />
+</a>
 <a href="https://github.com/Rusith1204/GYM-website"><img width="49%" alt="GYM-website" src="./assets/cards/project-GYM-website.svg" /></a>
 
 </div>
